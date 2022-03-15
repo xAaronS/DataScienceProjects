@@ -2,7 +2,7 @@
 Sample repo of all the projects, scripts, and code I worked on during my Masters of Management in Artificial Intelligence at Queen's University.
 
 
-Sample Projects Include:
+### Sample Projects Include:
 
 
 Data Cleansing and Management
