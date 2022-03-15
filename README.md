@@ -3,8 +3,18 @@ Sample repo of all the projects, scripts, and code I worked on during my Masters
 
 
 Sample Projects Include:
+
+
 Data Cleansing and Management
+
+
 Natural Language Processing
+
+
 Classification
+
+
 RNN/CNN/FFN
+
+
 Machine Learning/AI 
